@@ -1,2 +1,2 @@
 simple text
-row2 master
+вторая строка бранч мастер
